@@ -1,7 +1,7 @@
 自动同步教程:
 
 
-一:[点击导入仓库](https://github.com/new/import)，URL框填写https://github.com/inoyna11/jd28
+一:[点击导入仓库](https://github.com/new/import)，URL框填写https://github.com/CCC-jj/jdTools
 Repository Name填写仓库名字，点击绿色按钮，等待导入完成(不要把仓库设为私有，会运行失败)。
 
 
